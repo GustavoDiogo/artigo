@@ -1,0 +1,337 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.26)  6 MAY 2016 01:04
+entering extended mode
+**./sbc-template.tex
+(sbc-template.tex
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9n> and hyphenation patterns for 69 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (sbc-template.sty
+Package: sbc-template 2001/06/09
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg")) (caption2.sty
+Package: caption2 2002/08/03 v2.1 Customising captions (AS)
+\captionmargin=\dimen111
+\captionwidth=\dimen112
+\captionindent=\dimen113
+Package caption2 Info: Running in caption2 v2.0 compatibility mode on input lin
+e 147.
+\captionlinewidth=\dimen114
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+\c@instn=\count90
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box26
+\beforetitleunit=\skip43
+\aftertitleunit=\skip44
+\ttl@plus=\dimen115
+\ttl@minus=\dimen116
+\ttl@toksa=\toks16
+\titlewidth=\dimen117
+\titlewidthlast=\dimen118
+\titlewidthfirst=\dimen119
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2016/01/08 3.9n The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-portuges\portuges.ldf"
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2016/01/08 3.9n Babel common definitions
+\babel@savecnt=\count92
+\U@D=\dimen122
+)
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\latin1.def"
+File: latin1.def 2015/03/17 v1.2c Input encoding file
+)) (sbc-template.aux)
+\openout1 = `sbc-template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 23.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(99.58464pt, 674.33032pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=674.33032pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-9.68535pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count93
+\scratchdimen=\dimen123
+\scratchbox=\box27
+\nofMPsegments=\count94
+\nofMParguments=\count95
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count96
+\MPscratchDim=\dimen124
+\MPnumerator=\count97
+\makeMPintoPDFobject=\count98
+\everyMPtoPDFconversion=\toks20
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 25.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 25.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 25.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 25.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 27.
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 34--35
+[]\OT1/ptm/m/it/12 Este ar-tigo apre-senta a evolu[][]ao do ar-ma-ze-na-mento d
+e da-dos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+<cuneiforme.jpg, id=1, 451.6875pt x 303.1325pt>
+File: cuneiforme.jpg Graphic file (type jpg)
+ <use cuneiforme.jpg>
+Package pdftex.def Info: cuneiforme.jpg used on input line 48.
+(pdftex.def)             Requested size: 316.17908pt x 212.1913pt.
+ [1
+
+{C:/Users/gusta/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./cuneiform
+e.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+<gutenbergmachines.jpg, id=12, 1927.2pt x 2569.6pt>
+File: gutenbergmachines.jpg Graphic file (type jpg)
+
+<use gutenbergmachines.jpg>
+Package pdftex.def Info: gutenbergmachines.jpg used on input line 64.
+(pdftex.def)             Requested size: 289.06754pt x 385.42337pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
+
+ []
+
+
+Underfull \vbox (badness 3049) has occurred while \output is active []
+
+ [2 <./gutenbergmachines.jpg>] <gutenbergbible.jpg, id=16, 578.16pt x 361.35pt>
+File: gutenbergbible.jpg Graphic file (type jpg)
+
+<use gutenbergbible.jpg>
+Package pdftex.def Info: gutenbergbible.jpg used on input line 78.
+(pdftex.def)             Requested size: 289.07928pt x 180.67456pt.
+ [3 <./gutenbergbible.jpg>]
+<card.jpg, id=20, 493.3632pt x 221.1462pt>
+File: card.jpg Graphic file (type jpg)
+ <use card.jpg>
+Package pdftex.def Info: card.jpg used on input line 108.
+(pdftex.def)             Requested size: 246.681pt x 110.57281pt.
+
+<ibmmachine.jpg, id=21, 803.0pt x 602.25pt>
+File: ibmmachine.jpg Graphic file (type jpg)
+ <use ibmmachine.jpg>
+Package pdftex.def Info: ibmmachine.jpg used on input line 119.
+(pdftex.def)             Requested size: 321.1943pt x 240.89572pt.
+ [4 <./card.jpg> <./ibmmachine.jpg>] <tambor.jpg, id=25, 197.73875pt x 240.9pt>
+File: tambor.jpg Graphic file (type jpg)
+
+<use tambor.jpg>
+Package pdftex.def Info: tambor.jpg used on input line 138.
+(pdftex.def)             Requested size: 138.41617pt x 168.62883pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+
+ []
+
+<pfleumer.jpg, id=26, 650.43pt x 349.305pt>
+File: pfleumer.jpg Graphic file (type jpg)
+ <use pfleumer.jpg>
+Package pdftex.def Info: pfleumer.jpg used on input line 156.
+(pdftex.def)             Requested size: 325.2142pt x 174.65207pt.
+ [5 <./tambor.jpg> <./pfleumer.jpg>] <snake.png, id=30, 271.76532pt x 122.70844
+pt>
+File: snake.png Graphic file (type png)
+
+<use snake.png>
+Package pdftex.def Info: snake.png used on input line 170.
+(pdftex.def)             Requested size: 271.76465pt x 122.70813pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 184.
+ [6 <./snake.png>] [7] (sbc-template.aux) ) 
+Here is how much of TeX's memory you used:
+ 2778 strings out of 493634
+ 37309 string characters out of 3143744
+ 107373 words of memory out of 3000000
+ 6128 multiletter control sequences out of 15000+200000
+ 18188 words of font info for 40 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 30i,10n,29p,579b,310s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/e
+nc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times
+/utmri8a.pfb>
+Output written on sbc-template.pdf (7 pages, 2917584 bytes).
+PDF statistics:
+ 59 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+
