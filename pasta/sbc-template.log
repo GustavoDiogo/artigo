@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.26)  6 MAY 2016 01:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.26)  10 MAY 2016 17:43
 entering extended mode
 **./sbc-template.tex
 (sbc-template.tex
@@ -138,7 +138,29 @@ Package: inputenc 2015/03/17 v1.2c Input encoding file
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\latin1.def"
 File: latin1.def 2015/03/17 v1.2c Input encoding file
-)) (sbc-template.aux)
+)) (sbc-template.aux
+
+LaTeX Warning: Label `rotulo19' multiply defined.
+
+
+LaTeX Warning: Label `rotulo23' multiply defined.
+
+
+LaTeX Warning: Label `rotulo23' multiply defined.
+
+
+LaTeX Warning: Label `rotulo23' multiply defined.
+
+
+LaTeX Warning: Label `rotulo23' multiply defined.
+
+
+LaTeX Warning: Label `rotulo23' multiply defined.
+
+
+LaTeX Warning: Label `rotulo23' multiply defined.
+
+)
 \openout1 = `sbc-template.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
@@ -154,8 +176,7 @@ LaTeX Font Info:    ... okay on input line 23.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 23.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 *geometry* driver: auto-detecting
@@ -261,77 +282,215 @@ File: gutenbergmachines.jpg Graphic file (type jpg)
 
 <use gutenbergmachines.jpg>
 Package pdftex.def Info: gutenbergmachines.jpg used on input line 64.
-(pdftex.def)             Requested size: 289.06754pt x 385.42337pt.
+(pdftex.def)             Requested size: 154.17915pt x 205.5722pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--75
+<gutenbergletter.jpg, id=13, 803.0pt x 532.99126pt>
+File: gutenbergletter.jpg Graphic file (type jpg)
+ <use gutenbergletter.jpg>
+Package pdftex.def Info: gutenbergletter.jpg used on input line 65.
+(pdftex.def)             Requested size: 264.99081pt x 175.88765pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
 
  []
 
-
-Underfull \vbox (badness 3049) has occurred while \output is active []
-
- [2 <./gutenbergmachines.jpg>] <gutenbergbible.jpg, id=16, 578.16pt x 361.35pt>
+<gutenbergbible.jpg, id=14, 578.16pt x 361.35pt>
 File: gutenbergbible.jpg Graphic file (type jpg)
+ <use gutenbergbible.jpg>
+Package pdftex.def Info: gutenbergbible.jpg used on input line 79.
+(pdftex.def)             Requested size: 231.2599pt x 144.53743pt.
 
-<use gutenbergbible.jpg>
-Package pdftex.def Info: gutenbergbible.jpg used on input line 78.
-(pdftex.def)             Requested size: 289.07928pt x 180.67456pt.
- [3 <./gutenbergbible.jpg>]
-<card.jpg, id=20, 493.3632pt x 221.1462pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2 <./gutenbergmachines.jpg> <./gutenbergletter.jpg>]
+<jacquardcard.jpg, id=18, 401.5pt x 301.125pt>
+File: jacquardcard.jpg Graphic file (type jpg)
+ <use jacquardcard.jpg>
+Package pdftex.def Info: jacquardcard.jpg used on input line 93.
+(pdftex.def)             Requested size: 281.04808pt x 210.78606pt.
+ [3 <./gutenbergbible.jpg> <./jacquardcard.jpg>]
+<card.jpg, id=22, 493.3632pt x 221.1462pt>
 File: card.jpg Graphic file (type jpg)
  <use card.jpg>
-Package pdftex.def Info: card.jpg used on input line 108.
+Package pdftex.def Info: card.jpg used on input line 112.
 (pdftex.def)             Requested size: 246.681pt x 110.57281pt.
 
-<ibmmachine.jpg, id=21, 803.0pt x 602.25pt>
+<ibmmachine.jpg, id=23, 803.0pt x 602.25pt>
 File: ibmmachine.jpg Graphic file (type jpg)
  <use ibmmachine.jpg>
-Package pdftex.def Info: ibmmachine.jpg used on input line 119.
+Package pdftex.def Info: ibmmachine.jpg used on input line 123.
 (pdftex.def)             Requested size: 321.1943pt x 240.89572pt.
- [4 <./card.jpg> <./ibmmachine.jpg>] <tambor.jpg, id=25, 197.73875pt x 240.9pt>
-File: tambor.jpg Graphic file (type jpg)
-
-<use tambor.jpg>
-Package pdftex.def Info: tambor.jpg used on input line 138.
-(pdftex.def)             Requested size: 138.41617pt x 168.62883pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
-
- []
-
-<pfleumer.jpg, id=26, 650.43pt x 349.305pt>
+ [4 <./card.jpg> <./ibmmachine.jpg>] <pfleumer.jpg, id=27, 650.43pt x 349.305pt
+>
 File: pfleumer.jpg Graphic file (type jpg)
- <use pfleumer.jpg>
-Package pdftex.def Info: pfleumer.jpg used on input line 156.
+
+<use pfleumer.jpg>
+Package pdftex.def Info: pfleumer.jpg used on input line 135.
 (pdftex.def)             Requested size: 325.2142pt x 174.65207pt.
- [5 <./tambor.jpg> <./pfleumer.jpg>] <snake.png, id=30, 271.76532pt x 122.70844
-pt>
+ <snake.png, id=28, 271.76532pt x 122.70844pt>
 File: snake.png Graphic file (type png)
 
 <use snake.png>
-Package pdftex.def Info: snake.png used on input line 170.
+Package pdftex.def Info: snake.png used on input line 149.
 (pdftex.def)             Requested size: 271.76465pt x 122.70813pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./pfleumer.jpg>] <tambor.jpg, id=32, 197.73875pt x 240.9pt>
+File: tambor.jpg Graphic file (type jpg)
+ <use tambor.jpg>
+Package pdftex.def Info: tambor.jpg used on input line 161.
+(pdftex.def)             Requested size: 197.73827pt x 240.8994pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+
+ []
+
+[6 <./snake.png> <./tambor.jpg>] <ramac.jpg, id=36, 278.54062pt x 225.84375pt>
+File: ramac.jpg Graphic file (type jpg)
+
+<use ramac.jpg>
+Package pdftex.def Info: ramac.jpg used on input line 182.
+(pdftex.def)             Requested size: 250.68423pt x 203.25748pt.
+ [7 <./ramac.jpg>] <disk1.jpg, id=41, 602.25pt x 451.6875pt>
+File: disk1.jpg Graphic file (type jpg)
+
+<use disk1.jpg>
+Package pdftex.def Info: disk1.jpg used on input line 199.
+(pdftex.def)             Requested size: 295.10507pt x 221.3288pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+
+ []
+
+[8 <./disk1.jpg>] <cd.png, id=45, 501.875pt x 501.875pt>
+File: cd.png Graphic file (type png)
+ <use cd.png>
+Package pdftex.def Info: cd.png used on input line 222.
+(pdftex.def)             Requested size: 100.37321pt x 100.37321pt.
+
+<dvd.jpg, id=47, 363.759pt x 381.1038pt>
+File: dvd.jpg Graphic file (type jpg)
+ <use dvd.jpg>
+Package pdftex.def Info: dvd.jpg used on input line 223.
+(pdftex.def)             Requested size: 109.12854pt x 114.33202pt.
+
+<bluray.png, id=48, 60.225pt x 58.59892pt>
+File: bluray.png Graphic file (type png)
+ <use bluray.png>
+Package pdftex.def Info: bluray.png used on input line 224.
+(pdftex.def)             Requested size: 132.49445pt x 128.91711pt.
+
+Underfull \vbox (badness 1454) has occurred while \output is active []
+
+ [9 <./cd.png> <./dvd.jpg> <./bluray.png>]
+Underfull \hbox (badness 5970) in paragraph at lines 259--260
+[]\OT1/ptm/m/n/12 Nuvem h[]brida :[]E uma composi[][]ao de duas ou mais nu-ven
+s dis-tin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--277
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--277
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--277
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--277
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--277
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--277
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--277
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--277
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--277
+
+ []
+
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 184.
- [6 <./snake.png>] [7] (sbc-template.aux) ) 
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 279.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+Overfull \hbox (70.26227pt too wide) in paragraph at lines 287--288
+[]\OT1/ptm/m/n/12 http://members.bib-arch.org/publication.asp?PubID=BSBA&Volume
+=31&Issue=2&ArticleID=10 
+ []
+
+
+Overfull \hbox (70.95894pt too wide) in paragraph at lines 347--349
+[]\OT1/ptm/m/n/12 https://www.ibm.com/support/knowledgecenter/SSGMGV[]3.2.0/com
+.ibm.cics.ts.productoverview
+ []
+
+[11]
+Overfull \hbox (17.01901pt too wide) in paragraph at lines 388--390
+[]\OT1/ptm/m/n/12 http://www.blu-raydisc.com/Assets/Downloadablefile/White[]Pap
+er[]General[]3rd[]Dec%
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--398
+[]\OT1/ptm/m/n/12 https://www.ipo.gov.uk/patent/p-decisionmaking/p-challenge/p-
+challenge-decision-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--410
+[]\OT1/ptm/m/n/12 http://static1.1.sqspcdn.com/static/f/702523/10181434/1294788
+395300/201101-
+ []
+
+[12] (sbc-template.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2778 strings out of 493634
- 37309 string characters out of 3143744
- 107373 words of memory out of 3000000
- 6128 multiletter control sequences out of 15000+200000
- 18188 words of font info for 40 fonts, out of 3000000 for 9000
+ 2829 strings out of 493634
+ 38010 string characters out of 3143744
+ 108442 words of memory out of 3000000
+ 6171 multiletter control sequences out of 15000+200000
+ 19773 words of font info for 42 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 30i,10n,29p,579b,310s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/e
-nc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb>
-<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times
-/utmri8a.pfb>
-Output written on sbc-template.pdf (7 pages, 2917584 bytes).
+ 30i,10n,29p,625b,310s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on sbc-template.pdf (12 pages, 4966299 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
+ 84 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
